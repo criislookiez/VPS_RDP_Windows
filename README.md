@@ -1,4 +1,4 @@
-# VPS_Windows2019_Pro
+# VPS_RDP_Windows
 
 
 - Spesifikasi : VPS 2 Core CPU - 7GB RAM
@@ -14,4 +14,7 @@
 - Lalu klik Action > CI > Run workflow, setelah itu klik CI > build
 - Tunggu hingga proses pembuatan VPS selesai lalu akan muncul IP, User, Password
 
+# Note
 
+- Jika tidak keluar IP maka coba gunakan TOKEN lain atau jangan gunakan satu token secara bersamaan 
+- Jika ingin menggunakan Banyak VPS, maka gunakan TOKEN yang berbeda, disarankan membuat akun NGROK dengan email sementara (https://emailfake.com/)
